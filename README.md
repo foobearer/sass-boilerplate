@@ -2,9 +2,17 @@
 
 Scaffolding
 
-/components 
-  -components.sass
-/mixins
-  -mixins.sass
-variables.sass
-main.sass
+── components
+│   ├── components.sass
+│   ├── buttons.sass
+│   ├── alerts.sass
+│   ├── inputs.sass
+│   └── animation.sass
+├── mixins
+│   ├── mixins.sass
+│   ├── buttons.sass
+│   ├── alerts.sass
+│   ├── inputs.sass
+│   └── animation.sass
+├── variables.sass
+└── main.sass
