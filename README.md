@@ -1,7 +1,8 @@
 # sass-boilerplate
 
-Scaffolding
+## Scaffolding
 
+```
 ── components
 │   ├── components.sass
 │   ├── buttons.sass
@@ -16,3 +17,4 @@ Scaffolding
 │   └── animation.sass
 ├── variables.sass
 └── main.sass
+```
